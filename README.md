@@ -1,15 +1,13 @@
-## Hello, i'm João Henrique, programming/development student! 😁👋
+## 🚀 Hey! I'm João Henrique, a Backend Development Student focused on building REST APIs with Java & Spring Boot
 
-<div>
-  <a href="https://github.com/henriiquejoaao">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=henriiquejoaao&show_icons=true&theme=react">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquejoaao&theme=react&layout=compact">
-  </div>
+🔧 Tech stack: Java | Spring Boot | SQL/NoSQL | JPA/Hibernate | Git
+
+🎯 Goal: Backend internship / first opportunity
+
 <div style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=py" />
 </div>
 
   ##
