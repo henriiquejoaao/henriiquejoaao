@@ -7,6 +7,7 @@
 <div style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </div>
 
