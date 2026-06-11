@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020204,45:1558FF,100:9D4DFF&section=header" alt="Header wave" />
 
-<h1 align="center">João Henrique Trindade Guimarães</h1>
+<h1 align="center">João Henrique</h1>
 
 <p align="center">
   <strong>Software Development Student focused on Backend, Java, Spring Boot and REST APIs</strong>
@@ -75,7 +75,7 @@ Practical projects with real business rules
 
 ![Git](https://img.shields.io/badge/Git-111328?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111328?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111328?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-111328?style=for-the-badge&logo=vscode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-111328?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/Insomnia-111328?style=for-the-badge&logo=insomnia&logoColor=4000BF)
 ![Maven](https://img.shields.io/badge/Maven-111328?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
