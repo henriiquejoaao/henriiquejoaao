@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-020204?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-bb20a82b2/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1558FF?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/henriique_joaao/">
     <img src="https://img.shields.io/badge/Instagram-9D4DFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -157,7 +157,7 @@ Practical projects with real business rules
     <img src="https://img.shields.io/badge/Send_Email-020204?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-bb20a82b2/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Connect_on_LinkedIn-1558FF?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
